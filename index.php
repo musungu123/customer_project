@@ -33,6 +33,7 @@
                         </div>
 
                         <br>
+                        
                         <label>Email</label>
                         <input type="email" placeholder="Enter your email" name="email" class="form-control">
                         <br>
